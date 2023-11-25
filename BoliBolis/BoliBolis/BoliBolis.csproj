@@ -9,4 +9,8 @@
     <ApplicationVersion>1</ApplicationVersion>
     <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Xamarin.AndroidX.ConstraintLayout" Version="2.1.4.8" />
+    <PackageReference Include="Xamarin.AndroidX.ConstraintLayout.Solver" Version="2.0.4.16" />
+  </ItemGroup>
 </Project>
