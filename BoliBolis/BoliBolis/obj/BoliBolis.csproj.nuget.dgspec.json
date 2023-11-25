@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ddr4z\\Documents\\.Universidad1\\HackerBolis\\BoliBolis\\BoliBolis\\BoliBolis.csproj": {}
+    "C:\\Users\\Leo V\\Documents\\Proyectos\\BoliBolis\\BoliBolis\\BoliBolis\\BoliBolis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ddr4z\\Documents\\.Universidad1\\HackerBolis\\BoliBolis\\BoliBolis\\BoliBolis.csproj": {
+    "C:\\Users\\Leo V\\Documents\\Proyectos\\BoliBolis\\BoliBolis\\BoliBolis\\BoliBolis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ddr4z\\Documents\\.Universidad1\\HackerBolis\\BoliBolis\\BoliBolis\\BoliBolis.csproj",
+        "projectUniqueName": "C:\\Users\\Leo V\\Documents\\Proyectos\\BoliBolis\\BoliBolis\\BoliBolis\\BoliBolis.csproj",
         "projectName": "BoliBolis",
-        "projectPath": "C:\\Users\\ddr4z\\Documents\\.Universidad1\\HackerBolis\\BoliBolis\\BoliBolis\\BoliBolis.csproj",
-        "packagesPath": "C:\\Users\\ddr4z\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ddr4z\\Documents\\.Universidad1\\HackerBolis\\BoliBolis\\BoliBolis\\obj\\",
+        "projectPath": "C:\\Users\\Leo V\\Documents\\Proyectos\\BoliBolis\\BoliBolis\\BoliBolis\\BoliBolis.csproj",
+        "packagesPath": "C:\\Users\\Leo V\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Leo V\\Documents\\Proyectos\\BoliBolis\\BoliBolis\\BoliBolis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ddr4z\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Leo V\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
